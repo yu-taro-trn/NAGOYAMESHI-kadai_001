@@ -51,5 +51,7 @@
 ## 補足
 本資料をもとに、DjangoによるWebアプリケーションの実装を行っています。
 
+以下のリポジトリにて、実装内容をご確認いただけます。
+
 - Webアプリ実装リポジトリ  
  [NAGOYAMESHI（Djangoアプリ）](https://github.com/yu-taro-trn/NAGOYAMESHI-kadai_002)
