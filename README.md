@@ -45,8 +45,11 @@
 ### ⑥フローチャート
 - 課題として、1機能を対象にフローチャートを作成
 
+
 ---
 
 ## 補足
 本資料をもとに、DjangoによるWebアプリケーションの実装を行っています。
 
+- Webアプリ実装リポジトリ  
+ [NAGOYAMESHI（Djangoアプリ）](https://github.com/yu-taro-trn/NAGOYAMESHI-kadai_002)
